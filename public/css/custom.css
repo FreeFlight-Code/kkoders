@@ -1,1 +1,9 @@
 /* your styles go here */
+
+h1>img{
+    max-width: 85%;
+}
+#miniLogo{
+    padding-top: 5%;
+    height: 90%;
+}
